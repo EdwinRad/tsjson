@@ -10,4 +10,4 @@
 4. Wenn der Benutzer "alter" eingegeben hat, verwenden Sie eine for-Schleife, um die Konten in der JSON-Datei zu durchlaufen. Verwenden Sie eine if-Anweisung innerhalb der Schleife, um die Konten mit Alter größer 25 zu filtern.
 Verwenden Sie die print-Funktion, um die Informationen über das gefilterte Konto auf dem Bildschirm anzuzeigen.
 
-5. Wenn der Benutzer "balance" eingegeben hat, verwenden Sie eine for-Schleife, um die Konten in der JSON-Datei zu durchlaufen. Verwenden Sie eine Variable, um den aktuell höchsten Kontostand zu speichern, und vergleichen Sie jeden Kontostand mit diesem Wert. Wenn der Kontostand höher ist, setzen Sie die Variable auf den neuen, höheren Kontostand.
+5. Wenn der Benutzer "Kontostand" eingegeben hat, verwenden Sie eine for-Schleife, um die Konten in der JSON-Datei zu durchlaufen. Verwenden Sie eine Variable, um den aktuell höchsten Kontostand zu speichern, und vergleichen Sie jeden Kontostand mit diesem Wert. Wenn der Kontostand höher ist, setzen Sie die Variable auf den neuen, höheren Kontostand.
