@@ -11,3 +11,11 @@
 Verwenden Sie die print-Funktion, um die Informationen über das gefilterte Konto auf dem Bildschirm anzuzeigen.
 
 5. Wenn der Benutzer "Kontostand" eingegeben hat, verwenden Sie eine for-Schleife, um die Konten in der JSON-Datei zu durchlaufen. Verwenden Sie eine Variable, um den aktuell höchsten Kontostand zu speichern, und vergleichen Sie jeden Kontostand mit diesem Wert. Wenn der Kontostand höher ist, setzen Sie die Variable auf den neuen, höheren Kontostand.
+
+
+
+## Wann ist dieses Projekt erfolgreich abgeschlossen?
+1. Der Python code ist in eurem Github hochgeladen
+2. Wenn der Benutzer "alter" eingegeben hat, durchläuft das Programm die Konten in der JSON-Datei und zeigt nur diejenigen mit Alter größer 25 an. 
+3. Wenn der Benutzer "Kontostand" eingegeben hat, zeigt das Programm das Konto mit dem höchsten Kontostand an.
+5. Das Programm läuft ohne Fehler und gibt die erwarteten Ergebnisse aus.
